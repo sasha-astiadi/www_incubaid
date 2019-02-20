@@ -6,6 +6,7 @@
     git {
         repo ssh://git@github.com:Incubaid/www_incubad_mobiris.git
         branch master
+        hook /webhook "zU3687$aJEb6"
         key ~/.ssh/id_rsa
         path www_incubaid_mobirise
     }
