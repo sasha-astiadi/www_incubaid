@@ -1,0 +1,13 @@
+:2015 {
+    bind 0.0.0.0
+    gzip
+    root .
+    
+    git {
+        repo ssh://git@github.com:Incubaid/www_incubad_mobiris.git
+        branch master
+        key ~/.ssh/id_rsa
+        path www_incubaid_mobirise
+    }
+}
+
