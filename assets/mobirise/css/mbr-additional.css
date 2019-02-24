@@ -2,7 +2,9 @@
 
 
 
-
+.nav-item a:focus, a:hover{
+  color: #5DAD1F;
+}
 
 #menu-5 .navbar-toggler {
   color: #5cb85c;
