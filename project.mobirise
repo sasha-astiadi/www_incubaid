@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-08_1039",
+    "name": "Incubaid",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -16,9 +16,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
-    "uniqCompNum": 25,
-    "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 27,
+    "versionPublish": "4.9.5",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -31,48 +33,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://incubaid.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-5",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          }
-        },
         {
           "_inherit": "header1",
           "_params": {
@@ -94,9 +54,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
-          "title": "Incubator and IT Innovator<br><div><br></div><div>7 High-Profile Exits</div><div>Innovating Blockchain&nbsp;</div><div>Accelerating Green IT Globe</div>",
+          "title": "Incubator and IT Innovator<br><div><br></div><div>7 High-Profile Exits</div><div>Innovating Blockchain&nbsp;</div><div>Accelerating ThreeFold.Tech</div>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -149,7 +109,7 @@
             "P": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#545454"
+              "color": "#37383e"
             }
           }
         },
@@ -203,10 +163,52 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://incubaid.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          },
+          "_anchor": "menu-9"
         }
       ]
     },
-    "page1.html": {
+    "introduction.html": {
       "settings": {
         "title": "Introduction",
         "order": 1
@@ -234,7 +236,7 @@
           },
           "title": "Introduction",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">IT as Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Powering ThreeFold.tech</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"it-as-energy.html\" data-toolbar=\"-mbrBtnMove\">IT as Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"powering-threefoldtech.html\" data-toolbar=\"-mbrBtnMove\">Powering ThreeFold.tech</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -260,7 +262,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -343,7 +345,7 @@
         }
       ]
     },
-    "page2.html": {
+    "it-as-energy.html": {
       "settings": {
         "title": "IT as Energy",
         "order": 2
@@ -395,7 +397,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -478,7 +480,7 @@
         }
       ]
     },
-    "page3.html": {
+    "powering-threefoldtech.html": {
       "settings": {
         "title": "Powering ThreeFold.tech",
         "order": 3
@@ -505,7 +507,7 @@
           }
         },
         {
-          "text": "<p>Our experience as technology enterpreneurs has led us to found Incubaid. Since 2000 we have been exiting a number of startups to superior technology giants. Companies such as Oracle, Verizon, Hitachi Data Systems, have established billion dollar revenue streams in datacenter, storage and cloud services, using technology, products and companies that were founded by Incubaid.</p><p>Throughout the years we gathered capital, financial and legal advisory, disruptive technology and a network of very experienced and international startup veterans that support a portfolio of early-stage startups and our largest portfolio company, ThreeFold Tech. Incubaid is unique as it has been carefully growing the intelectual property while generating serious returns for its investors.<br></p><p>Besides ThreeFold Tech, the areas of incubation and innovation are centered around blockchain, new digital currencies, next generation mobile applications and the democratization of the Internet, making it much more green, with respect for individual freedom and privacy, while leveling the playing field for emerging markets and new digital economies to realize its full potential using internet platforms provided by ThreeFold Tech and Incubaid.<br></p>",
+          "text": "<p>Our experience as technology enterpreneurs has led us to found Incubaid. Since 2000 we have been exiting a number of startups to superior technology giants. Companies such as Oracle, Verizon, Hitachi Data Systems, have established billion dollar revenue streams in datacenter, storage and cloud services, using technology, products and companies that were founded by Incubaid.</p><p>Throughout the years we gathered capital, financial and legal advisory, disruptive technology and a network of very experienced and international startup veterans that support a portfolio of early-stage startups and ThreeFold Tech our portfolio company. Incubaid is unique as it has been carefully growing the intelectual property while generating serious returns for its investors.<br></p><p>Besides ThreeFold Tech, the areas of incubation and innovation are centered around blockchain, new digital currencies, next generation mobile applications and the democratization of the Internet, making it greener, with respect for individual freedom and privacy, while leveling the playing field for emerging markets and new digital economies to realize its full potential using internet platforms provided by ThreeFold Tech and Incubaid.<br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -530,7 +532,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -613,7 +615,7 @@
         }
       ]
     },
-    "page4.html": {
+    "current-projects.html": {
       "settings": {
         "title": "Current Projects",
         "order": 4
@@ -631,7 +633,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -703,10 +705,10 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "columns": 4,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sarah-dorweiler-357715-unsplash-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -717,13 +719,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "ThreeFold Tech",
-          "caption1": "ThreeFold Tech is focused on developing technology that creates a meaningful IMPACT on humanity and our planet by embedding responsibility in the design, core values and code.<br><br><b><a href=\"page5.html\">Read more</a></b>",
+          "caption1": "ThreeFold Tech is focused on developing technology that creates a meaningful IMPACT on humanity and our planet by embedding responsibility in the design, core values and code.<br><br><b><a href=\"threefold-tech.html\">Read more</a></b>",
           "title2": "ThreeFold Foundation",
-          "caption2": "ThreeFold Foundation: Responsible Internet For All. ThreeFold Foundation is the foremost user of the components created by ThreeFold Tech.<br><br><b><a href=\"page6.html\">Read more</a></b><br>",
+          "caption2": "ThreeFold Foundation: Responsible Internet For All. ThreeFold Foundation is the foremost user of the components created by ThreeFold Tech.<br><br><b><a href=\"threefold-foundation.html\">Read more</a></b><br>",
           "title3": "Jimber",
-          "caption3": "the Jimber security broker can host HTML and JavaScript based web applications and exposes these applications as a stream of graphics comparable to remote environments.<br><br><b><a href=\"page7.html\">Read more</a></b><br>",
+          "caption3": "the Jimber security broker can host HTML and JavaScript based web applications and exposes these applications as a stream of graphics comparable to remote environments.<br><br><b><a href=\"jimber.html\">Read more</a></b><br>",
           "title4": "Human Energy Token",
-          "caption4": "Human Energy Token is a concept initiative launched by Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin.&nbsp;<br><br><b><a href=\"page8.html\">Read more</a></b><br>",
+          "caption4": "Human Energy Token is a concept initiative launched by Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin.&nbsp;<br><br><b><a href=\"human-energy-token.html\">Read more</a></b><br>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -790,7 +792,7 @@
         }
       ]
     },
-    "page5.html": {
+    "threefold-tech.html": {
       "settings": {
         "title": "ThreeFold.Tech",
         "order": 5
@@ -886,7 +888,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -969,7 +971,7 @@
         }
       ]
     },
-    "page6.html": {
+    "threefold-foundation.html": {
       "settings": {
         "title": "ThreeFold Foundation",
         "order": 6
@@ -1065,7 +1067,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1148,7 +1150,7 @@
         }
       ]
     },
-    "page7.html": {
+    "jimber.html": {
       "settings": {
         "title": "Jimber",
         "order": 7
@@ -1244,7 +1246,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1327,7 +1329,7 @@
         }
       ]
     },
-    "page8.html": {
+    "human-energy-token.html": {
       "settings": {
         "title": "Human Energy Token",
         "order": 8
@@ -1423,7 +1425,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1506,101 +1508,12 @@
         }
       ]
     },
-    "page9.html": {
+    "exits.html": {
       "settings": {
-        "title": "Company",
-        "order": 25
+        "title": "Exits",
+        "order": 9
       },
       "components": [
-        {
-          "text": "<p><b>About Incubaid</b><br></p><p>The Incubator supporting ThreeFold.Tech Incubaid is a Belgian-based company. We are proud to be based in a neutral country, while doing successful international business.Our most current &amp; active project ThreeFold Tech takes up most of our acitivities.</p><p>The success behind our incubator is based on following principles:</p><p>- Independence - we keep our portfolio companies 100% indepedent, early-stage or late-stage, during the complete lifecycle<br>- Invention - invention has be disruptive, and not promising incremental added-value. We only work with the best inventor.<br>- International - the world has been globalized since decades, our teams are working from all continents doing deals</p><p>Incubaid is also very proud to be a true digital responsible organisation, in following domains:</p><p>- Eco-friendly technology - making technology much more greener, even 100% green!<br>- Emerging markets - making technology accessible by and available to the other billion people<br>- Open-source software - giving technology back to the mass, collaborate and innovate on a global level<br>- Employment - enabling technology to be deployed locally, creating jobs and opportunities</p><p>Incubaid is software-driven. We automate processes as much as we can to help our portfolio companies. We do this to gain efficiency while growing much faster than any other incubator or investor can. We control different software domains and portfolio companies:</p><p>- Blockchain technology<br>- Edge Cloud Computing<br>- Big data compute platforms<br>- High-performance storage algorithms<br>- Cloud automation and virtualization<br>- Automated deployment of mobile apps<br>- Encryption technology and secure communication</p><p><b><br></b></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contact us",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
-          "form": {
-            "action": "vansabbr@bettertoken.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-m",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "Idola Business Center, Lochristi",
-              "placeId": "ChIJ2SRAmMB3w0cRUnXM4N_WIt4",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-l"
-        },
         {
           "_params": {
             "logo": true,
@@ -1613,7 +1526,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1641,7 +1554,124 @@
               "color": "#5cb85c"
             }
           },
-          "_anchor": "menu-9"
+          "_anchor": "menu-e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Our Exits",
+          "caption": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Amplidata",
+          "caption1": "Founded by Incubaid in 2008 to resolve data storage limitations. At that time storage was very slow &amp; expensive and non scalable at all.<br><br><b><a href=\"amplidata.html\">Read more</a></b>",
+          "title2": "Dacentec",
+          "caption2": "Dacentec was Incubaid’s datacenter facility in North America. The facility was the one of the first energy-neutral datacenter in the world, powered by renewable energy.<br><br><b><a href=\"dacentec.html\">Read more</a></b><br>",
+          "title3": "DataCenterTech",
+          "caption3": "Founded by Kristof in 2002 to originally resolve automation problems around what we would call cloud computing today. At that time that term was not invented.&nbsp;<br><br><b><a href=\"datecentertech.html\">Read more</a></b><br>",
+          "title4": "Dedigate",
+          "caption4": "Dedigate was one of the first Managed Service Providers in Europe, with headquarters in Belgium, and activities in France, Germany and The Netherlands.<br><br><b><a href=\"dedigate.html\">Read more</a></b><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-g",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sarah-dorweiler-357715-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Hostbasket",
+          "caption1": "Hostbasket was on of the 2 startups which Kristof created when he left PSINet. At PSINet Kristof had build multiple datacenters and one of the first complex managed hosting providers in the world. <br><br><b><a href=\"hostbasket.html\">Read more</a></b>",
+          "title2": "Q-Layer",
+          "caption2": "In Q-layer a new system was invented which allowed highly complex systems to be managed but even more importantly to allow the automation system to grow without adding to the complexity.<br><br><b><a href=\"q-layer.html\">Read more</a></b><br>",
+          "title3": "Virtualbox<br>",
+          "caption3": "Enabled all developers worldwide with a more performing hypervisor that can be installed locally. Virtualbox is the most popular DevOps hypervisor in the world.<br><br><b><a href=\"virtualbox.html\">Read more</a></b><br>",
+          "title4": "",
+          "caption4": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "content4-o"
         },
         {
           "_params": {
@@ -1692,11 +1722,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
-          "_anchor": "contacts1-a"
+          "_anchor": "contacts1-f"
         }
       ]
     },
-    "page10.html": {
+    "amplidata.html": {
       "settings": {
         "title": "Amplidata",
         "order": 10
@@ -1792,7 +1822,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1875,7 +1905,7 @@
         }
       ]
     },
-    "page11.html": {
+    "dacentec.html": {
       "settings": {
         "title": "Dacentec",
         "order": 11
@@ -1971,7 +2001,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2054,7 +2084,7 @@
         }
       ]
     },
-    "page12.html": {
+    "datecentertech.html": {
       "settings": {
         "title": "DataCenterTech",
         "order": 12
@@ -2150,7 +2180,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2233,7 +2263,7 @@
         }
       ]
     },
-    "page13.html": {
+    "dedigate.html": {
       "settings": {
         "title": "Dedigate",
         "order": 13
@@ -2329,7 +2359,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2412,7 +2442,7 @@
         }
       ]
     },
-    "page14.html": {
+    "hostbasket.html": {
       "settings": {
         "title": "Hostbasket",
         "order": 14
@@ -2508,7 +2538,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2591,7 +2621,7 @@
         }
       ]
     },
-    "page15.html": {
+    "q-layer.html": {
       "settings": {
         "title": "Q-layer",
         "order": 15
@@ -2687,7 +2717,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2770,7 +2800,7 @@
         }
       ]
     },
-    "page16.html": {
+    "virtualbox.html": {
       "settings": {
         "title": "Virtualbox",
         "order": 16
@@ -2866,7 +2896,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2949,225 +2979,7 @@
         }
       ]
     },
-    "page17.html": {
-      "settings": {
-        "title": "Exits",
-        "order": 9
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://incubaid.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-e"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
-          },
-          "title": "Our Current Projects",
-          "caption": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-h",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "columns": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "Amplidata",
-          "caption1": "Founded by Incubaid in 2008 to resolve data storage limitations. At that time storage was very slow &amp; expensive and non scalable at all.<br><br><b><a href=\"page10.html\">Read more</a></b>",
-          "title2": "Dacentec",
-          "caption2": "Dacentec was Incubaid’s datacenter facility in North America. The facility was the one of the first energy-neutral datacenter in the world, powered by renewable energy.<br><br><b><a href=\"page11.html\">Read more</a></b><br>",
-          "title3": "DataCenterTech",
-          "caption3": "Founded by Kristof in 2002 to originally resolve automation problems around what we would call cloud computing today. At that time that term was not invented.&nbsp;<br><br><b><a href=\"page12.html\">Read more</a></b><br>",
-          "title4": "Dedigate",
-          "caption4": "Dedigate was one of the first Managed Service Providers in Europe, with headquarters in Belgium, and activities in France, Germany and The Netherlands.<br><br><b><a href=\"page13.html\">Read more</a></b><br>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-g",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sarah-dorweiler-357715-unsplash-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "Hostbasket",
-          "caption1": "Hostbasket was on of the 2 startups which Kristof created when he left PSINet. At PSINet Kristof had build multiple datacenters and one of the first complex managed hosting providers in the world. <br><br><b><a href=\"page14.html\">Read more</a></b>",
-          "title2": "Q-Layer",
-          "caption2": "In Q-layer a new system was invented which allowed highly complex systems to be managed but even more importantly to allow the automation system to grow without adding to the complexity.<br><br><b><a href=\"page15.html\">Read more</a></b><br>",
-          "title3": "Virtualbox<br>",
-          "caption3": "enabled all developers worldwide with a more performing hypervisor that can be installed locally. Virtualbox is the most popular DevOps hypervisor in the world.<br><br><b><a href=\"page16.html\">Read more</a></b><br>",
-          "title4": "Next Exit",
-          "caption4": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "content4-o"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer-156x32.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
-          "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "B": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "DIV": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "contacts1-f"
-        }
-      ]
-    },
-    "page18.html": {
+    "former-projects.html": {
       "settings": {
         "title": "Former Projects",
         "order": 17
@@ -3185,7 +2997,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3234,7 +3046,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Our Current Projects",
+          "title": "Our Former Projects",
           "caption": "",
           "alias": "purity/components",
           "_tags": [
@@ -3255,13 +3067,13 @@
             "showTitles": true,
             "showCaptions": true,
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sarah-dorweiler-357715-unsplash-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3271,13 +3083,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "Awingu",
-          "caption1": "Kristof created the company in 2011 to improve the way how people work in the cloud. The goal was to allow secure access to a 100% web based virtual desktop. Walter Van Uytven became CEO in 2015.<br><br><b><a href=\"page20.html\">Read more</a></b>",
+          "caption1": "Kristof created the company in 2011 to improve the way how people work in the cloud. The goal was to allow secure access to a 100% web based virtual desktop. Walter Van Uytven became CEO in 2015.<br><br><b><a href=\"awingu.html\">Read more</a></b>",
           "title2": "Green IT Globe",
-          "caption2": "GIG was founded by Kristof De Spiegeleer and teamed up with co-founder and CEO, Willem Hendrickx, a prominent technology and telecoms executive, most recently President of Alcatel EMEA.<br><br><b><a href=\"page21.html\">Read more</a></b><br>",
+          "caption2": "GIG was founded by Kristof De Spiegeleer and teamed up with co-founder and CEO, Willem Hendrickx, a prominent technology and telecoms executive, most recently President of Alcatel EMEA.<br><br><b><a href=\"green-it-globe.html\">Read more</a></b><br>",
           "title3": "Itsyou.Online",
-          "caption3": "Blockchain driven identity management system founded as research project at Incubaid. Itsyou.Online is now part of GreenITGlobe.<br><br><b><a href=\"page22.html\">Read more</a></b><br>",
+          "caption3": "Blockchain driven identity management system founded as research project at Incubaid. Itsyou.Online is now part of GreenITGlobe.<br><br><b><a href=\"itsyouonline.html\">Read more</a></b><br>",
           "title4": "Open Vstorage<br>",
-          "caption4": "Open vStorage is a ultra reliable distributed block store for hyper performance storage workloads. It has customers in the USA, India, Asia and Europe.<br><br><b><a href=\"page13.html\">Read more</a></b><br>",
+          "caption4": "Open vStorage is a ultra reliable distributed block store for hyper performance storage workloads. It has customers in the USA, India, Asia and Europe.<br><br><b><a href=\"open-vstorage.html\">Read more</a></b><br>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3295,14 +3107,14 @@
           "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "4",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sarah-dorweiler-357715-unsplash-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3312,12 +3124,12 @@
             "overlayOpacity": 0.5
           },
           "title1": "Racktivity",
-          "caption1": "Incubaid has founded Racktivity in 2009, with as goal to make datacenters eco-friendly and green.<br><br><br><br><b><a href=\"page24.html\">Read more</a></b>",
+          "caption1": "Incubaid has founded Racktivity in 2009, with as goal to make datacenters eco-friendly and green.<br><br><br><br><b><a href=\"racktivity.html\">Read more</a></b>",
           "title2": "Rivine.io",
-          "caption2": "Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake).<br><br><b><a href=\"page25.html\">Read more</a></b><br>",
+          "caption2": "Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake).<br><br><b><a href=\"rivine-io.html\">Read more</a></b><br>",
           "title3": "Rogerthat<br>",
-          "caption3": "OneApp Product for Operators<br>Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:<br><br>mobile data cloud for storing personal information, pictures, videos, etc<br><br><b><a href=\"page19.html\">Read more</a></b><br>",
-          "title4": "Next Exit",
+          "caption3": "OneApp Product for Operators<br>Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:<br><br>mobile data cloud for storing personal information, pictures, videos, etc<br><br><b><a href=\"rogerthat.html\">Read more</a></b><br>",
+          "title4": "",
           "caption4": "",
           "alias": "purity/components",
           "_tags": [
@@ -3385,186 +3197,7 @@
         }
       ]
     },
-    "page19.html": {
-      "settings": {
-        "title": "Rogerthat",
-        "order": 24
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "12",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/320-320x44.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "text": "<p><b>Founded in 2011, Now part of GreenITGlobe<br></b><br>Rogerthat OneApp Product for Operators<br><br>Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:</p><p>- mobile data cloud for storing personal information, pictures, videos, etc<br>- mobile communication platform for community formation or subscriber marketing<br>- mobile content cloud for premium content and delivery of content local to the subscriber</p><p><b>Rogerthat OneApp Product for Enterprises</b></p><p>Rogerthat is a piece of infrastructure that simplifies development, deployment, training and security problems compared to a traditional mobile communication systems. Rogerthat consists of one single app for your company, which can be extended by the various departments, building their mobile solutions inside the ‘company employees app’. Employees install the OneApp on their mobile phone. The app is automatically enriched with functionalities based on the employee’s role or interests. When an enterprise department releases a new solution or solution update, this is automatically pushed to the employee OneApp, without requiring any action by the employee.</p><p><b>Why Rogerthat?<br><br></b>We live in world where more and more governments and large commercial giants are trying to read our personal information. The OneApp infrastructure, powered by Rogerthat enables enterprises and operators to provide a true secure and private communication and cloud platform to its users.<br></p><p><br><a href=\"https://www.rogerthat.net\" target=\"_blank\">www.rogerthat.net</a></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://incubaid.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-9"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer-156x32.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
-          "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "B": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "DIV": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "contacts1-a"
-        }
-      ]
-    },
-    "page20.html": {
+    "awingu.html": {
       "settings": {
         "title": "Awingu",
         "order": 18
@@ -3660,7 +3293,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3743,7 +3376,7 @@
         }
       ]
     },
-    "page21.html": {
+    "green-it-globe.html": {
       "settings": {
         "title": "Green IT Globe",
         "order": 19
@@ -3839,7 +3472,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3922,7 +3555,7 @@
         }
       ]
     },
-    "page22.html": {
+    "itsyouonline.html": {
       "settings": {
         "title": "Itsyou.Online",
         "order": 20
@@ -4018,7 +3651,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4101,7 +3734,7 @@
         }
       ]
     },
-    "page23.html": {
+    "open-vstorage.html": {
       "settings": {
         "title": "Open Vstorage",
         "order": 21
@@ -4197,7 +3830,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4280,7 +3913,7 @@
         }
       ]
     },
-    "page24.html": {
+    "racktivity.html": {
       "settings": {
         "title": "Racktivity",
         "order": 22
@@ -4376,7 +4009,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4459,7 +4092,7 @@
         }
       ]
     },
-    "page25.html": {
+    "rivine-io.html": {
       "settings": {
         "title": "Rivine.io",
         "order": 23
@@ -4555,7 +4188,496 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page1.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page4.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page17.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page18.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"page9.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://incubaid.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          },
+          "_anchor": "menu-9"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-footer-156x32.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
+          "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-a"
+        }
+      ]
+    },
+    "rogerthat.html": {
+      "settings": {
+        "title": "Rogerthat",
+        "order": 24
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/320-320x44.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ThreeFold.tech",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-i",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "text": "<p><b>Founded in 2011, Now part of GreenITGlobe<br></b><br>Rogerthat OneApp Product for Operators<br><br>Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:</p><p>- mobile data cloud for storing personal information, pictures, videos, etc<br>- mobile communication platform for community formation or subscriber marketing<br>- mobile content cloud for premium content and delivery of content local to the subscriber</p><p><b>Rogerthat OneApp Product for Enterprises</b></p><p>Rogerthat is a piece of infrastructure that simplifies development, deployment, training and security problems compared to a traditional mobile communication systems. Rogerthat consists of one single app for your company, which can be extended by the various departments, building their mobile solutions inside the ‘company employees app’. Employees install the OneApp on their mobile phone. The app is automatically enriched with functionalities based on the employee’s role or interests. When an enterprise department releases a new solution or solution update, this is automatically pushed to the employee OneApp, without requiring any action by the employee.</p><p><b>Why Rogerthat?<br><br></b>We live in world where more and more governments and large commercial giants are trying to read our personal information. The OneApp infrastructure, powered by Rogerthat enables enterprises and operators to provide a true secure and private communication and cloud platform to its users.<br></p><p><br><a href=\"https://www.rogerthat.net\" target=\"_blank\">www.rogerthat.net</a></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://incubaid.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          },
+          "_anchor": "menu-9"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-footer-156x32.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
+          "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-a"
+        }
+      ]
+    },
+    "company.html": {
+      "settings": {
+        "title": "Company",
+        "order": 25
+      },
+      "components": [
+        {
+          "text": "<p><b>About Incubaid</b><br></p><p>The Incubator supporting ThreeFold.Tech Incubaid is a Belgian-based company. We are proud to be based in a neutral country, while doing successful international business.Our most current &amp; active project ThreeFold Tech takes up most of our acitivities.</p><p>The success behind our incubator is based on following principles:</p><p>- Independence - we keep our portfolio companies 100% indepedent, early-stage or late-stage, during the complete lifecycle<br>- Invention - invention has be disruptive, and not promising incremental added-value. We only work with the best inventor.<br>- International - the world has been globalized since decades, our teams are working from all continents doing deals</p><p>Incubaid is also very proud to be a true digital responsible organisation, in following domains:</p><p>- Eco-friendly technology - making technology much more greener, even 100% green!<br>- Emerging markets - making technology accessible by and available to the other billion people<br>- Open-source software - giving technology back to the mass, collaborate and innovate on a global level<br>- Employment - enabling technology to be deployed locally, creating jobs and opportunities</p><p>Incubaid is software-driven. We automate processes as much as we can to help our portfolio companies. We do this to gain efficiency while growing much faster than any other incubator or investor can. We control different software domains and portfolio companies:</p><p>- Blockchain technology<br>- Edge Cloud Computing<br>- Big data compute platforms<br>- High-performance storage algorithms<br>- Cloud automation and virtualization<br>- Automated deployment of mobile apps<br>- Encryption technology and secure communication</p><p><b><br></b></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kristof2-300x300.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sophie-250x250.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pierre2-250x250.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jan-de-landtsheer-250x250.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>Kristof De Spiegeleer</b><br><b>&nbsp;</b><div>Founder and Technologist</div>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b>Sophie De Maesschalck</b>&nbsp;<div>&nbsp;</div><div>Managing Director and Group CFO</div>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<div><span style=\"font-size: 24px;\"><b>Pierre Van Hoorebeke</b></span></div><div>&nbsp;</div><div>Group Legal Counsel</div>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<div><span style=\"font-size: 24px;\"><b>Jan De Landtsheer </b></span></div><div><span style=\"color: inherit;\"><br></span></div><div><span style=\"color: inherit;\">Chief Research and Development</span></div>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-q",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact us",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "form": {
+            "action": "vansabbr@bettertoken.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-m",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Idola Business Center, Lochristi",
+              "placeId": "ChIJ2SRAmMB3w0cRUnXM4N_WIt4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-l"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
