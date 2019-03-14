@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "index.html",
+    "currentPage": "company.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -4609,9 +4609,9 @@
           "title": "Contact us",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
           "form": {
-            "action": "vansabbr@bettertoken.com",
+            "action": "info@incubaid.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for filling out our contact form. We will contact you as soon as possible."
             },
             "fields": {
               "name": {
