@@ -4,8 +4,8 @@
     root .
     
     git {
-        repo ssh://git@github.com:Incubaid/www_incubaid.git
-        branch production
+        repo https://github.com/Incubaid/www_incubaid.git
+        branch new
         hook /webhook "zU3687$aJEb6"
         key ~/.ssh/id_rsa
         path . 
