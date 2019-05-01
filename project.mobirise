@@ -1,11 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-<<<<<<< HEAD
-    "currentPage": "amplidata.html",
-=======
-    "currentPage": "index.html",
->>>>>>> 3bf3f87ccead43551b64aacd979c46f95ed9642a
+    "currentPage": "dedigate.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -20,11 +16,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
-<<<<<<< HEAD
     "uniqCompNum": 30,
-=======
-    "uniqCompNum": 28,
->>>>>>> 3bf3f87ccead43551b64aacd979c46f95ed9642a
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -151,7 +143,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -330,7 +322,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -465,7 +457,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -600,7 +592,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -776,7 +768,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -955,7 +947,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1134,7 +1126,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1313,7 +1305,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1492,7 +1484,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1710,7 +1702,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1747,10 +1739,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/amplidata\"></iframe>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/amplidata\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1035px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}",
           "_customTemplate": true
         },
         {
@@ -1840,7 +1832,7 @@
           ],
           "_name": "menu",
           "_anchor": "menu-9",
-          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <div class=\"navbar-brand\">\n                <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a>\n\n            </div>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n       <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <!-- <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span> -->\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"681\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"682\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"683\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"684\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"685\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"686\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"687\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <div class=\"navbar-brand\">\n                <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a>\n\n            </div>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n       <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <!-- <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span> -->\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"688\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"689\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"690\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"691\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"692\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"693\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"694\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
@@ -1849,63 +1841,7 @@
             ".navbar-toggler": {
               "color": "#5cb85c"
             }
-<<<<<<< HEAD
           }
-=======
-          },
-          "_anchor": "menu-9"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-footer-156x32.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
-          "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "B": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "DIV": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "contacts1-a"
->>>>>>> 3bf3f87ccead43551b64aacd979c46f95ed9642a
         }
       ]
     },
@@ -1969,29 +1905,11 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "text": "<p><b>Founded in 2009</b><br></p><p>Founded by Wilbert and Kristof. Their goal was to create a datacenter which was super power efficient yet cost effective.<br>Dacentec was Incubaid’s datacenter facility in North America. The facility was the one of the first energy-neutral datacenter in the world, powered by renewable energ.<br><br>Founded in 2009, Dacentec Inc. operates a 23,000 square foot purpose-built data center in Lenoir, North Carolina, and offers a comprehensive suite of dedicated hosting, co-location, and technology-neutral green cloud data center services. CentriLogic will integrate these services with its own hybrid hosting, managed services, and cloud computing solutions.</p><p><b>Exit: 2013</b></p><p>Acquired by CentriLogic in 2013 as the company was expanding its datacenter footprint from Canada and the UK into North America.<br><br>The addition of this facility, which is located in the Southeast’s most active data center cluster, will provide CentriLogic with direct access to the numerous large organizations with enterprise-class workloads located throughout the region. CentriLogic will also utilize this facility to provide its existing customers with an additional U.S.-based cloud availability zone, along with geographically dispersed managed hosting, co-location, and disaster recovery solutions.</p><p><b>Milestones</b></p><p>The 23,000 square-foot data center is SSAE 16 Type 2 compliant, has access to abundant power on Duke Energy’s low-cost power grid, and is designed with multiple layers of redundancy across all levels of infrastructure. Other assets acquired by CentriLogic in the acquisition include Dacentec Inc.’s staff, its existing office space, and current customer contracts.</p><p><b>Today</b></p><p>Centrilogic is a leading regional provider of hosting services, has won a number of customer contracts and operates in a data center hub that has been validated by investments from companies like Facebook and Apple,” said Robert Offley, CentriLogic’s President and CEO. This acquisition gives us the immediate ability to offer our hybrid hosting solutions to companies located throughout the southeastern region of the United States, and fulfills the demand from current customers requiring data center space beyond our existing North American facilities in Western New York and Southern Ontario, Canada.</p><p><a href=\"https://www.centrilogic.com\" target=\"_blank\">www.centrilogic.com</a></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dacentec\"></iframe>\n        </div>\n    </div>\n</section>\n</div>\n\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1085px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n\n\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2065,7 +1983,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2244,7 +2162,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2274,68 +2192,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "10",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-dedigate.gif",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2000</b><br></p><p>Dedigate was on of the 2 startups which Kristof created when he left PSINet. At PSINet Kristof had build multiple datacenters and one of the first complex managed hosting providers in the world. PSINet was the first American commercial ISP in the world, with the biggest network at that point. He and his co-founders Joost, Jan and others were passionate to show how hosting which was super complex at that point could be automated and made more reliable while keeping the cost under control.<br><br>Dedigate was one of the first Managed Service Providers in Europe, with headquarters in Belgium, and activities in France, Germany and The Netherlands. It was running managed services in more than 10 datacenters and had a turnover of $7 milion at point of acquisition. Lots of famous sites at that point were hosted by Dedigate. Dedigate was focused on big complex hosting projects, while Hostbasket was focussed on the smaller customers.<br><br>Dedigate claim to fame was SLA’s, in stead of selling a hosted hardware box in a datacenter, customers got clear Service Levels and Dedigate took care or all scaling, automation &amp; monitoring requirements.<br><br>Automation was a big part of their business, because automation allowed rapid scaling and better uptime, today this is a normal requirement but back in 2000 this was very innovative.<br><br><b>Exit: 2005</b></p><p>Terremark acquired Dedigate to grow its activities from a pure datacenter provider to managed hosting. Terremark became part of Verizon soon after.</p><p><b>Activities</b></p><p>Dedigate provides managed dedicated, secure hosting services to enterprise customers, e-commerce marketplaces, system integrators, ASP’s and web designers using proprietary technology to remain automated and scalable across geographically remote locations. The Dedigate solution allows for the rapid integration and deployment of their products in each of Terremark’s Internet exchanges around the world.<br><br>Dedigate was a pioneer in complex dedicated hosting (European based)</p><p>The firm was a pioneer in early cloud computing with Incubaid team members playing a key role in cloud strategy and cloud implementation towards Terremark and Verizon</p><p>Over 70 U.S., European and Asian enterprises are customers of Dedigate, including Exostar, Quadrem, Kelkoo, Pfizer, Samsonite and Pioneer</p><p><b>Today</b></p><p><b>-&nbsp;</b>Part of Verizon, a global telecom giant that acquired Terremark and all the cloud activities of Dedigate<br>- Terremark was acquired by Verizon in order to boost its cloud strategy Read News Announcement Verizon<br>- Dedigate is the technology foundation for the Verizon cloud: The Enterprise Cloud</p><p><br></p><p><a href=\"https://www.terremark.com\" target=\"_blank\">www.terremark.com</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -2343,13 +2199,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dedigate\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1400px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2423,7 +2277,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2602,7 +2456,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2781,7 +2635,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2960,7 +2814,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3177,7 +3031,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3356,7 +3210,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3535,7 +3389,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3714,7 +3568,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3893,7 +3747,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4072,7 +3926,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4251,7 +4105,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4430,7 +4284,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4740,7 +4594,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
