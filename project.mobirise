@@ -1,7 +1,11 @@
 {
   "settings": {
     "name": "Incubaid",
+<<<<<<< HEAD
     "currentPage": "amplidata.html",
+=======
+    "currentPage": "index.html",
+>>>>>>> 3bf3f87ccead43551b64aacd979c46f95ed9642a
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -16,7 +20,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
+<<<<<<< HEAD
     "uniqCompNum": 30,
+=======
+    "uniqCompNum": 28,
+>>>>>>> 3bf3f87ccead43551b64aacd979c46f95ed9642a
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -143,7 +151,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -322,7 +330,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -457,7 +465,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -592,7 +600,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -768,7 +776,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -947,7 +955,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1126,7 +1134,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1305,7 +1313,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1484,7 +1492,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1702,7 +1710,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1841,7 +1849,63 @@
             ".navbar-toggler": {
               "color": "#5cb85c"
             }
+<<<<<<< HEAD
           }
+=======
+          },
+          "_anchor": "menu-9"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-footer-156x32.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
+          "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-a"
+>>>>>>> 3bf3f87ccead43551b64aacd979c46f95ed9642a
         }
       ]
     },
@@ -2001,7 +2065,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2180,7 +2244,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2359,7 +2423,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2538,7 +2602,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2717,7 +2781,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2896,7 +2960,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3113,7 +3177,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3292,7 +3356,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3471,7 +3535,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3650,7 +3714,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3829,7 +3893,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4008,7 +4072,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4187,7 +4251,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4366,7 +4430,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4676,7 +4740,7 @@
           },
           "text1": "<b>100% Software-driven</b><br>Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to disrupt their industries.",
           "text2": "<b>100% Energy-saving</b><br>We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society.",
-          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div>",
+          "text3": "<b>Contact</b><div>Antwerpse Steenweg 19&nbsp;</div><div>9080 Lochristi, Belgium&nbsp;</div><div>E-mail: info@incubaid.com<b>&nbsp;</b></div><div><a href=\"https://threefold.io\"><b>GitHub</b></a></div><div><a href=\"https://threefold.io\"><b>Hosted on TFGrid</b></a></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
