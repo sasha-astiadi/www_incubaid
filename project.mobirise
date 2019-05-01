@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "company.html",
+    "currentPage": "amplidata.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -16,8 +16,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
-    "uniqCompNum": 27,
-    "versionPublish": "4.9.5",
+    "uniqCompNum": 30,
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -176,7 +176,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -199,12 +199,12 @@
             "Theme"
           ],
           "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-9"
+          "_anchor": "menu-9",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <div class=\"navbar-brand\">\n                <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a>\n\n            </div>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n       <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <!-- <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span> -->\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"664\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"665\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"666\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"667\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"668\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"669\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"670\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
+          "_customTemplate": true
         }
       ]
     },
@@ -262,7 +262,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -285,12 +285,12 @@
             "Theme"
           ],
           "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-9"
+          "_anchor": "menu-9",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"191\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"192\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"193\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"194\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"195\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"196\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"197\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -397,7 +397,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -532,7 +532,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -633,7 +633,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -732,12 +732,11 @@
           ],
           "_name": "content4",
           "_anchor": "content4-g",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<section class=\"mbr-section mbr-section-small mbr-after-navbar\" data-rv-view=\"41\" style=\"background-color: rgb(255, 255, 255); padding-top: 6rem; padding-bottom: 6rem;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"113\">ThreeFold Tech</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"114\">ThreeFold Tech is focused on developing technology that creates a meaningful IMPACT on humanity and our planet by embedding responsibility in the design, core values and code.<br><br><strong><a href=\"threefold-tech.html\">Read more</a></strong></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"115\">ThreeFold Foundation</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"116\">ThreeFold Foundation: Responsible Internet For All. ThreeFold Foundation is the foremost user of the components created by ThreeFold Tech.<br><br><strong><a href=\"threefold-foundation.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"117\">Jimber</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"118\">the Jimber security broker can host HTML and JavaScript based web applications and exposes these applications as a stream of graphics comparable to remote environments.<br><br><strong><a href=\"jimber.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"119\">Human Energy Token</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"120\">Human Energy Token is a concept initiative launched by Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin.&nbsp;<br><br><strong><a href=\"human-energy-token.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nH4 {\n  font-family: 'Raleway', sans-serif;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -888,7 +887,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1067,7 +1066,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1246,7 +1245,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1425,7 +1424,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1526,7 +1525,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1549,12 +1548,12 @@
             "Theme"
           ],
           "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-e"
+          "_anchor": "menu-e",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"78\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"302\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"303\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"304\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"305\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"306\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"307\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"308\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover {\n    color: #68b622;\n}",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1630,7 +1629,8 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
-          }
+          },
+          "_customCSS": "a{\n    color:#68b622;\n}"
         },
         {
           "_params": {
@@ -1665,13 +1665,12 @@
             "Theme"
           ],
           "_name": "content4",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "content4-o"
+          "_anchor": "content4-o",
+          "_customHTML": "<section class=\"mbr-section mbr-section-small mbr-after-navbar\" data-rv-view=\"86\" style=\"background-color: rgb(255, 255, 255); padding-top: 6rem; padding-bottom: 6rem;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"261\">Hostbasket</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"262\">Hostbasket was on of the 2 startups which Kristof created when he left PSINet. At PSINet Kristof had build multiple datacenters and one of the first complex managed hosting providers in the world. <br><br><strong><a href=\"hostbasket.html\">Read more</a></strong></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"263\">Q-Layer</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"264\">In Q-layer a new system was invented which allowed highly complex systems to be managed but even more importantly to allow the automation system to grow without adding to the complexity.<br><br><strong><a href=\"q-layer.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"265\">Virtualbox<br></h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"266\">Enabled all developers worldwide with a more performing hypervisor that can be installed locally. Virtualbox is the most popular DevOps hypervisor in the world.<br><br><strong><a href=\"virtualbox.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n           <!--  <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        \n                    </div>\n                </div>\n            </div> -->\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nH4 {\n  font-family: 'Raleway', sans-serif;\n}\n\na{\n    color:#68b622;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1733,68 +1732,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "10",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplidata-small-411x133.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2008</b><br></p><p>Founded by Incubaid in 2008 to resolve data storage limitations. At that time storage was very slow &amp; expensive and non scalable at all.<br><br>Amplidata’s primary offering is Himalaya, an advanced object storage software product that enables scale-out software-defined storage systems. By delivering industry leading scalability with the efficiency, resiliency, and flexibility required for demanding cloud data center environments, Amplidata’s products and technology have earned the trust of leading OEMs and cloud service providers.<br><br>Amplidata was one of the first most scalable object storage systems in the world. Amplidata could fit petabytes of data in 1 rack in a datacenter and could do this at a cost a fraction of others. The software is ultra reliable and was used by major companies in the world to store their large archives.</p><p><b>Exit: 2015</b></p><p>Western Digital Corporation (NASDAQ: WDC) acquired Amplidata to support strategy to expand into higher value storage platforms and systems that deliver breakthrough value and scalability to address the massive growth in storage requirements in cloud data centers.</p><p><b>Milestones</b></p><p>- 2008 founded in Lochristi (Belgium),<br>- 2009 development office opened in Cairo (Egypt)<br>- 2010 sales office opened in California (USA)<br>- 2012 OEM agreement with Quantum for Amplidata’s AmpliStor XT technology<br>- 2013 HGST announces joint development partner with Amplidata for its Active Archive platform</p><p><b>Today: The Third Platform<br></b><br>Active Archive: Innovating in the Third Platform<br><br>The storage ecosystem continues to transform with a greater focus on how data is stored, accessed, and protected. As a result, storage has become a key enabler of the information technology industry‘s transition to the “Third Platform” of computing, as the world becomes more data-centric. Dynamic provisioning of cloud-scale computing assets is the essence of the Third Platform, which is driving new customer requirements and transforming business models. HGST’s Active Archive solutions are purpose-built to address the need for rapid access to the massive data stores in computing’s Third Platform using Amplidata.</p><p><a href=\"http://www.amplidata.com\">www.amplidata.com</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -1802,55 +1739,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://incubaid.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-9"
+          "_customHTML": "<section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/amplidata\"></iframe>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1902,6 +1795,53 @@
             }
           },
           "_anchor": "contacts1-a"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://incubaid.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <div class=\"navbar-brand\">\n                <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a>\n\n            </div>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n       <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <!-- <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span> -->\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"681\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"682\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"683\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"684\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"685\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"686\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"687\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         }
       ]
     },
@@ -2001,7 +1941,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2180,7 +2120,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2359,7 +2299,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2538,7 +2478,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2717,7 +2657,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2896,7 +2836,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2997,7 +2937,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3020,12 +2960,12 @@
             "Theme"
           ],
           "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-e"
+          "_anchor": "menu-e",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"139\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"321\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"322\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"323\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"324\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"325\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"326\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"327\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -3136,13 +3076,12 @@
             "Theme"
           ],
           "_name": "content4",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "content4-o"
+          "_anchor": "content4-o",
+          "_customHTML": "<section class=\"mbr-section mbr-section-small mbr-after-navbar\" data-rv-view=\"147\" style=\"background-color: rgb(255, 255, 255); padding-top: 3rem; padding-bottom: 6rem;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"315\">Racktivity</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"316\">Incubaid has founded Racktivity in 2009, with as goal to make datacenters eco-friendly and green.<br><br><br><br><strong><a href=\"racktivity.html\">Read more</a></strong></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"317\">Rivine.io</h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"318\">Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake).<br><br><strong><a href=\"rivine-io.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\" code-editable-id=\"319\">Rogerthat<br></h4>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"320\">OneApp Product for Operators<br>Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:<br><br>mobile data cloud for storing personal information, pictures, videos, etc<br><br><strong><a href=\"rogerthat.html\">Read more</a></strong><br></p>\n                    </div>\n                </div>\n            </div>\n            <!-- <div class=\"col-sm-6 col-md-3\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title text-xs-center mbr-editable-content\"></h4>\n                        <p class=\"card-text mbr-editable-content\"></p>\n                    </div>\n                </div>\n            </div> -->\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nH4 {\n  font-family: 'Raleway', sans-serif;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -3293,7 +3232,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3472,7 +3411,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3651,7 +3590,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3830,7 +3769,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4009,7 +3948,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4188,7 +4127,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4367,7 +4306,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4677,7 +4616,7 @@
             "hamburgerColor": "#5cb85c"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"introduction.html\">Introduction</a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"current-projects.html\">Current Projects<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"exits.html\">Exits</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"former-projects.html\">Former Projects</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".nav-item .btn\" href=\"company.html\">Company</a></li>",
           "logo": {
             "image": {
               "active": true,
