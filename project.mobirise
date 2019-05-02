@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "dedigate.html",
+    "currentPage": "virtualbox.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -204,7 +204,12 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         }
       ]
     },
@@ -1553,7 +1558,12 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover {\n    color: #68b622;\n}",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         },
         {
           "_params": {
@@ -2307,68 +2317,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "16",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-hostbasket-250x63.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2000</b><br></p><p>Hostbasket was on of the 2 startups which Kristof created when he left PSINet. At PSINet Kristof had build multiple datacenters and one of the first complex managed hosting providers in the world. PSINet was the first American commercial ISP in the world, with the biggest network at that point. Kristof and his co-founder Alex wanted to build a 100% automated platform to allow small and mid sized companies to fulfill all their hosting requirements.<br><br>Hostbasket became the largest hosting service provider in the Benelux, and was pioneer in virtual private servers and the first cloud. Hostbasket also developed the cloud platform for Telenet, which is still widely used with many Belgium SMB companies.<br><br>Hostbaskets platform was capable to manage its +30000 customers 99% automatic. There were control panels for everything which was very innovative at that time.</p><p><br></p><p><b>Exit: 2008</b></p><p>Telenet acquired Hostbasket in 2008, so it could strengthen its product portfolio in combination with their access/connectivity business. Telenet has high-speed cable going into every company in Belgium. Even today, the Hostbasket cloud is still the foundation for the Telenet cloud business. Telenet is the 2nd largest telco operator in Belgium.</p><p><br></p><p><b>Activities<br></b><br>The activities of Hostbasket were centered around domain names, shared hosting, dedicated servers, and cloud applications, such as hosted exchange and sharepoint for the SMB market. Hostbasket had more than 30.000 customers when Telenet acquired the business.</p><p><br></p><p><b>Milestones<br></b><br>- First hosting service provider hosting 5000+ servers<br>- Highly profitable due to the recurring revenue model<br>- All hosting and cloud activities for Telenet, for nearly 10 years</p><p><a href=\"https://www.hostbasket.com\">www.hostbasket.com</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -2376,13 +2324,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/hostbasket\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1170px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1890px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2486,68 +2432,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "12",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-qlayer-250x75.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2006</b><br></p><p>Q-layer was founded by Kristof &amp; co-founders in 2006 to build the foundation of what many people today call the cloud. Kristof is passionate about automation systems and could not understand why they were so complex and not effective. In Q-layer a new system was invented which allowed highly complex systems to be managed but even more importantly to allow the automation system to grow without adding to the complexity. The approach of Q-layer is still being used in any of the new startups of incubaid.<br><br>Q-layer was one of the first companies in the industry to create and end2end cloud automation product. Q-layer created &amp; invented the virtual datacenter concept where complex IT resources where managed in what we called Virtual Datacenters at that point. Q-layer was converging storage, virtualization &amp; networking in 1 stack.</p><p><br></p><p><b>Exit: 2009</b></p><p>Sun Microsystems wanted to become a competitor of Amazon Webservices and with the acquisition of Q-layer was hoping to integrate and automate its vast set of technology components. Q-layer’s technology simplifies and automates the deployment and management of both public and private clouds and allows users to quickly provision and deploy applications, a key component in Sun’s refocused strategy,</p><p><b>Acquired by SUN Microsystems (now Oracle) in 2009</b><br></p><p>Q-layer was the last acquisition in the history of SUN Microsystems, before Oracle acquired it</p><p><br>Probably first startup in the world:<br>- Creating an end to end automation product for ultra complex cloud environments, at a time when there was only virtualization<br>- promoting Virtual Datacenter Concept (VDC)</p><p>Q-layer worked closely together with players like VMWare to establish future direction of the cloud.</p><p><b>After acquisition</b></p><p>SUN Microsystems acquired Q-layer to be the foundation of their new cloud strategy. Incubaid was advisor for Sun’s global cloud positioning and strategy. Their cloud strategy was seen as last attempt for SUN to reinvent itself</p><p><a href=\"https://www.oracle.com\" target=\"_blank\">www.oracle.com</a><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -2555,13 +2439,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/q-layer\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1232px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 2013px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2665,68 +2547,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "7",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-virtualbox-171x171.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2000<br></b></p><p><b><br></b>Achim Hasenmueller founded Virtualbox in 2000. Hypervisor software developed by Innotek GmbH, a Weinstadt, Germany-based supplier of virtualization software. Incubaid only much later came into the picture where Kristof became friends with Achim and helped the company to get acquired by Sun Microsystems. Achim and Kristof have partnered in quite some other Incubaid startups since then.</p><p><b>Exit: 2008</b><br></p><p>Acquired by SUN Microsystems (now Oracle) in 2008. It enabled all developers worldwide with a more performing hypervisor that can be installed locally. Virtualbox is the most popular DevOps hypervisor in the world.</p><p><b>Milestones:</b></p><p>- The first neutral hypervisor in the world<br>- When acquired it had more than 5.000.000 users<br>- Virtualbox had more than 1.000.000 downloads per week<br>- Incubaid has led the technology positioning and exit to SUN</p><p><b>Today:</b></p><p>- Virtualbox is still the most downloaded hypervisor in the world~<br>- Virtualbox is the most efficient hypervisor for local installation<br>- Virtualbox is the most popular DevOps hypervisor for 20 million developers</p><p><a href=\"https://www.virtualbox.org\" target=\"_blank\">www.virtualbox.org</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -2734,13 +2554,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/virtualbox\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1160px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
