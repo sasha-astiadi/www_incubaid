@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "human-energy-token.html",
+    "currentPage": "rogerthat.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2623,68 +2623,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "15",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/awingu-411x175.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2011</b><br><br>Kristof created the company in 2011 to improve the way how people work in the cloud. The goal was to allow secure access to a 100% web based virtual desktop. Walter Van Uytven became CEO in 2015.<br><br>Awingu enables application mobility in professional workspaces and for desktops, tablets and smartphones. Mobility is key in today’s business environments, yet many organizations have invested in business applications that are not web or cloud-ready. Awingu allows you to get secure access to any legacy application anywhere and on any device via a browser. It also creates a collaborative environment for co-workers to share and work simultaneuos on documents.</p><p><b>Award Winning Technology</b></p><p>Awingu has won many awards in various categories:<br>- 2016 Best New Technology - Belgian Channel Awards<br>- 2016 Startup Company Award of Excellence - Datanews<br>- 2016 Best Software Award - Belgian Channel Awards</p><p><b>Venture Capital Backed</b></p><p>The company has prominent investors such as Hummingbird Ventures and Belgacom. Awingu is led by Walter Van Uytven as CEO, and has offices in Europe and North America</p><p><a href=\"https://www.awingu.com\">www.awingu.com</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -2692,13 +2630,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/awingu\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2802,68 +2738,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "8",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gig-logo2-150x81.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2009<br></b><br>GIG was founded by Kristof De Spiegeleer and teamed up with co-founder and CEO, Willem Hendrickx, a prominent technology and telecoms executive, most recently President of Alcatel EMEA. GIG has over 80 employees and offices in Ghent, Dubai and Cairo.<br><br>Building a Green, Democratic and Safe Internet<br><br>Today, 90% of the cloud is powered by Amazon, Google and Microsoft on large hyperscale datacenters costing approximately &gt;$1 billion each. Demand for IT capacity is far outstripping the available cloud capacity due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence. The existing hyperscale cloud architecture can not cope with this outsize demand as the requirements for land, power and funding are just too great. In the next decade, the global internet infrastructure needs another 4,000 hyperscale datacenters ($1bn+ each) to meet demand which would cost $ trillions - an impossible amount of money.</p><p><b>Technology</b></p><p>see gig website: <a href=\"https://www.gig.tech\">www.Gig.tech</a></p><p><b>Product Design to Deliver IT as Energy<br></b><br>Product Design After 15 Years of Development: GIG’s performance and cost advantages are due primarily to the following key factors:<br><br>GIG racks are located in the same place as users (so-called “edge” networks) which places content, communication and capacity close to users, while re-using existing and available datacenter space<br><br>GIG owns its full integrated software stack - and therefore does not pay away substantial IP margin to multiple software vendors, such as VMware, Microsoft, IBM, HP and many others.<br><br>GIG racks can be rolled out modularly to meet capacity requirements as they arise - the production cycle is about 1 month from order to install so GIG can deliver invest against pre-agreed orders</p><p><b>Target Market<br></b>GIG has partners in following geographies<br><br>- Europe<br>- Russia<br>- Middle East<br>- South Africa<br>- Sub Saharan Africa<br>- USA and Canada</p><p><br></p><p><a href=\"https://www.gig.tech\" target=\"_blank\">www.gig.tech</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -2871,13 +2745,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/gig_tech\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2981,68 +2853,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "8",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/itsyouonline-logo-250x100.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2015, now part of GreenITGlobe</b><br></p><p>Blockchain driven identity management system founded as research project at Incubaid. Itsyou.Online is now part of GreenITGlobe.</p><p><b>Product Design<br><br></b>Itsyou.online is a web-based service using blockchain distributed ledger to keep track of online interaction in which you provide identity information. As a persona you can release only the necessary parts of identity information needed to complete an online transaction: e-commerce purchase, web registration or contract signature.<br><br><b>Why Itsyou.online?<br></b><br>At Incubaid and Green IT Globe we believe in our privacy rights. Privacy is a human right and should not be controlled by commercial organizations such as Facebook, Alphabet (Google) and Microsoft (LinkedIn). Our project is an open-source project using blockchain technology in which we eliminate the middle-man. Your identity is in your hands and is being managed directly with you, while all transactions about and around your identity are being executed on a public ledger. This also means that parties dealing with you as a persona are protected and are guaranteed about the integrity of the transaction.<br><br><b>Technology<br></b>Itsyou.online is using the blockchain technology from Rivine.Io.<br><br><a href=\"http://www.itsyou.online\">www.itsyou.online</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -3050,13 +2860,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/itsyou_online\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -3160,68 +2968,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "14",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-opt3-small-500x138.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2008</b><br></p><p>Kristof founded OpenvStorage back in 2008, OVS was working closely together with Amplidata.<br>Open vStorage is a ultra reliable distributed block store for hyper performance storage workloads. It has customers in the USA, India, Asia and Europe.</p><p><b>Technology Milestones<br></b>- 2013 Open vStorage integrates with OpenStack<br>- 2014 Open vStorage integrates with VMWare<br>- 2014 Open vStorage showcases All Flash Array<br>- 2015 Open vStorage integrates with Green IT Globe’s G8 Cloud Stack<br>- 2016 Open vStorage releases Fargo, geoscale multi-datacenter storage clusters which offer super-fast block storage</p><p><b>Today</b><br>OpenvStorage is an independent cash flow positive company today and servicing customers globally.</p><p><a href=\"https://www.openvstorage.com\" target=\"_blank\">www.openvstorage.com</a></p><p><br></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -3229,13 +2975,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/open_vstorage\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -3339,68 +3083,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "7",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/racktivity-logo-250x53.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><a href=\"https://www.racktivity.com\" target=\"_blank\"></a><b>Founded in 2009, now part of GreenITGlobe</b><br></p><p>Incubaid has founded Racktivity in 2009, with as goal to make datacenters eco-friendly and green.<br><br>Datacenters are globally massive consumers of electricity. Millions of servers are running without knowledge or insights in efficiency and power utilization. Racktivity has a portfolio of energy management systems for datacenter racks and individual servers, in which the uptime of the servers can also be remotely managed.</p><p><b>In 2016 Green IT Globe acquired Racktivity.<br><br></b>The integration of the Racktivity energy management stack &amp; power and uptime management devices into the Green IT Globe product makes it possible to run internet datacenters in remote locations across the world, in which electricity is scarce and brownouts are daily reality.</p><p><br></p><p><b>Product Design<br><br></b>Racktivity was formed with the aim of helping customers understand and control energy distribution in near real-time across the enterprise. With this enhanced visibility, organisations can better align IT business operations with their true cost. Racktivity provides extreme granularity to our customers across their entire enterprise, across structures, sites and geographies.<br><br><a href=\"https://www.racktivity.com\">www.racktivity.com</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -3408,13 +3090,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/racktivity\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -3518,68 +3198,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "7",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rivinelogo-504x553.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2016, Now part of GreenITGlobe<br></b><br>Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake). With Rivine.io it is also possible to have a blockchain technology framework where access permissions are regulated by the Itsyou.Online user, with rights to modify or even read the blockchain state restricted to a new public-private voting mechanism, while still maintaining many kinds of partial guarantees of authenticity and decentralization that blockchains provide.</p><p><b>Product Design<br><br></b>Rivine.io is driving a service model on top of new blockchain models. Rivine.io and Green IT Globe can provision the ultimate compute power to keep the private blockchain growing and secured, while users can execute more and more secure transactions. Using the mobile application framework of Rogerthat you can enable mobile users to define business processes directly on their private blockchain. This has tremendous value to the end-user in terms of privacy and secure execution of transaction, without having a service provider acting as middleman.</p><p><b>Why Rivine.io?<br></b><br>At Incubaid we believe a public blockchain model is not scalable, nor usable:<br><br>- transactions and business processes should not need to become visible or transparent<br>- mining of the distributed ledger becomes a very polluting business, example bitcoin<br>- blockchain implementations should not be overly complex and have to be simplified<br>- mining should be done by green companies, providing low-energy compute capacity</p><p><b>Technology<br><br></b>Our ultimate goal is to become a platform-as-a-service partner to many businesses that want to benefit from green and private blockchain<br><br>- Itsyou.online identity management<br>- Rogerthat enterprise mobility<br>- HumanEnergyToken virtual currency<br><br><a href=\"https://www.gig.tech\" style=\"background-color: rgb(255, 255, 255);\" target=\"_blank\">www.gig.tech</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -3587,13 +3205,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/rivine_io\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -3697,68 +3313,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "12",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/320-320x44.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2011, Now part of GreenITGlobe<br></b><br>Rogerthat OneApp Product for Operators<br><br>Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:</p><p>- mobile data cloud for storing personal information, pictures, videos, etc<br>- mobile communication platform for community formation or subscriber marketing<br>- mobile content cloud for premium content and delivery of content local to the subscriber</p><p><b>Rogerthat OneApp Product for Enterprises</b></p><p>Rogerthat is a piece of infrastructure that simplifies development, deployment, training and security problems compared to a traditional mobile communication systems. Rogerthat consists of one single app for your company, which can be extended by the various departments, building their mobile solutions inside the ‘company employees app’. Employees install the OneApp on their mobile phone. The app is automatically enriched with functionalities based on the employee’s role or interests. When an enterprise department releases a new solution or solution update, this is automatically pushed to the employee OneApp, without requiring any action by the employee.</p><p><b>Why Rogerthat?<br><br></b>We live in world where more and more governments and large commercial giants are trying to read our personal information. The OneApp infrastructure, powered by Rogerthat enables enterprises and operators to provide a true secure and private communication and cloud platform to its users.<br></p><p><br><a href=\"https://www.rogerthat.net\" target=\"_blank\">www.rogerthat.net</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -3766,13 +3320,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/rogerthat\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
