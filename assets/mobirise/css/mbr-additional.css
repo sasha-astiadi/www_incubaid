@@ -30,6 +30,9 @@
 #menu-9 .navbar-toggler {
   color: #5cb85c;
 }
+#menu-9 .navbar-toggler {
+  color: #5cb85c;
+}
 #menu-9 a:focus,
 #menu-9 a:hover {
   color: #5cb85c;
@@ -123,15 +126,243 @@
 }
 
 
-
-
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
 }
 #content1-b P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1000px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 127%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
+}
+#menu-9 .navbar-toggler {
+  color: #5cb85c;
+}
+#contacts1-a P {
+  text-align: left;
+}
+#contacts1-a B {
+  font-family: 'Raleway', sans-serif;
+}
+#contacts1-a DIV {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
+}
+#content1-b P {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1620px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 145%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 2546px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 2546px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
+}
+#menu-9 .navbar-toggler {
+  color: #5cb85c;
+}
+#contacts1-a P {
+  text-align: left;
+}
+#contacts1-a B {
+  font-family: 'Raleway', sans-serif;
+}
+#contacts1-a DIV {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
+}
+#content1-b P {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1000px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 127%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
+}
+#menu-9 .navbar-toggler {
+  color: #5cb85c;
+}
+#contacts1-a P {
+  text-align: left;
+}
+#contacts1-a B {
+  font-family: 'Raleway', sans-serif;
+}
+#contacts1-a DIV {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
+}
+#content1-b P {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1300px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 127%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;
@@ -149,78 +380,9 @@
 
 
 
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
-}
-#content1-b P {
-  font-size: 18px;
-  font-family: 'Raleway', sans-serif;
-}
-#menu-9 .navbar-toggler {
+#menu-e .navbar-toggler {
   color: #5cb85c;
 }
-#contacts1-a P {
-  text-align: left;
-}
-#contacts1-a B {
-  font-family: 'Raleway', sans-serif;
-}
-#contacts1-a DIV {
-  font-family: 'Raleway', sans-serif;
-}
-
-
-
-
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
-}
-#content1-b P {
-  font-size: 18px;
-  font-family: 'Raleway', sans-serif;
-}
-#menu-9 .navbar-toggler {
-  color: #5cb85c;
-}
-#contacts1-a P {
-  text-align: left;
-}
-#contacts1-a B {
-  font-family: 'Raleway', sans-serif;
-}
-#contacts1-a DIV {
-  font-family: 'Raleway', sans-serif;
-}
-
-
-
-
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
-}
-#content1-b P {
-  font-size: 18px;
-  font-family: 'Raleway', sans-serif;
-}
-#menu-9 .navbar-toggler {
-  color: #5cb85c;
-}
-#contacts1-a P {
-  text-align: left;
-}
-#contacts1-a B {
-  font-family: 'Raleway', sans-serif;
-}
-#contacts1-a DIV {
-  font-family: 'Raleway', sans-serif;
-}
-
-
-
-
 #menu-e .navbar-toggler {
   color: #5cb85c;
 }
@@ -478,15 +640,54 @@
 }
 
 
-
-
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
 }
 #content1-b P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1170px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 127%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1890px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;
@@ -502,15 +703,54 @@
 }
 
 
-
-
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
 }
 #content1-b P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1232px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 127%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 2013px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;
@@ -526,15 +766,54 @@
 }
 
 
-
-
-#msg-box5-i .mbr-section-title {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
+#content1-b {
+  
+  /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */
+  /* @media (max-width: 991px){ */
 }
 #content1-b P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
+}
+#content1-b .iframe-container {
+  width: 115%;
+  height: 1160px;
+  margin: auto;
+  overflow: hidden;
+}
+#content1-b .iframe-container iframe {
+  width: 100%;
+  height: 127%;
+  margin-left: -272px;
+  border: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 120%;
+    height: 145%;
+    margin-left: -275px;
+    border: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  #content1-b .iframe-container {
+    width: 115%;
+    height: 1055px;
+    margin: auto;
+    overflow: hidden;
+  }
+  #content1-b .iframe-container iframe {
+    width: 100%;
+    height: 101%;
+    margin-left: -32px;
+    border: none;
+  }
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;

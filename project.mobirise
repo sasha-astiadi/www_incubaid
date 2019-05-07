@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "virtualbox.html",
+    "currentPage": "human-energy-token.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -200,7 +200,7 @@
           ],
           "_name": "menu",
           "_anchor": "menu-9",
-          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <div class=\"navbar-brand\">\n                <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a>\n\n            </div>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n       <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <!-- <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span> -->\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"664\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"665\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"666\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"667\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"668\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"669\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"670\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"18\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <div class=\"navbar-brand\">\n                <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a>\n\n            </div>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n       <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <!-- <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span> -->\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"4\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"5\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"6\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"7\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"8\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"9\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"10\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
@@ -803,68 +803,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "14",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/threefoldtec-200x29.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2018</b></p><p>ThreeFold Tech is focused on developing technology that creates a meaningful IMPACT on humanity and our planet by embedding responsibility in the design, core values and code. ThreeFold Tech’s innovative technology sits at the crossroads of a number of technological trends in the market including blockchain, edge cloud computing &amp; self-healing IT systems.</p><p><a href=\"https://threefold.tech\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">www.threefold.tech</a><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -872,13 +810,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/current_projects/threefold_tech\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -982,68 +918,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "14",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/threefold-logo-type-monocolor-grey-1400x485.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2017</b><br></p><p>ThreeFold Foundation: Responsible Internet For All. ThreeFold Foundation is the foremost user of the components created by ThreeFold Tech to create a fully decentralized and democratized internet for all. The Blockchain powered internet grid already has well over 10 times more capacity in the field than all other blockchain + internet startups combined.<br><br>ThreeFold Foundation uses the Zero-Chain technology to enable payment for storage and compute resources througout the grid. The token used for this is called the Threefold Token. The grid itself continues to grow with more and more “farmers” joining each day. Besides Zero Chain, Zero OS also plays a big role in the project. Allowing users to run any workload on top of the farmers’ hardware.</p><p><b>ThreeFold Grid Use-Cases<br></b><br><i>Utility use cases</i><br><br>TF Grid technology is ideal for traditional utility use cases such as web content, e-commerce sites, photo storage and music streaming. It allows a more economical, secure and robust delivery of capacity for any current and future online activity.<br><br><i>Storage and Archive</i><br><br>Independent studies show that each day the growth of information that we create and store is increasing exponentially. In a nutshell, we simply require more storage and archiving capacity than is currently provide-. TF Grid’s technology can be used to create storage and archiving solutions at almost infinite scale, and at a fraction of the cost.<br><br><i>Distributed always on applications</i><br><br>The future is distributed. Applications will no longer exist in centralized private or public datacenters. Applications are getting smaller and more specialized to fulfil a single purpose. These applications need to live on minimal utility. The TF Grid is designed to allow distributed applications to exist anywhere.<br><br><i>Internet of things</i><br><br>The Internet of things means that all devices will have smart components and be connected to the internet. This creates an environment where applications can run everywhere and data is collected and can be processed from anywhere. In this world, a ubiquitous utility for local compute and storage is as necessary as the electricity we expect to be available to power our mobile devices, homes and businesses.<br><br><i>Self Healing Components</i><br><br>One of the key differentiators on the ThreeFold Grid is the 100% self healing abilities made possible by the Zero Robots on the grid. A general purpose bot that can be ‘trained’ to perform millions of different tasks. Like human beings that can develop themselves into artists, scientists or doctors by the Zero Robot ‘lives’ on the Zero OS operating system and can be trained to perform tasks on Zero OS,system administration tasks, data processing tasks, data storage tasks, etc. The Zero Robot accepts tasks that are agreed and stored on the Zero Chain.</p><p><a href=\"https://www.threefold.io\" target=\"_blank\">www.threefold.io</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -1051,13 +925,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/current_projects/threefold_foundation\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1620px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 145%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 2546px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 2546px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1161,68 +1033,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "7",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logodark.svg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2018</b><br></p><p>the Jimber security broker can host HTML and JavaScript based web applications and exposes these applications as a stream of graphics comparable to remote environments.</p><p>For the end user the difference to a normal website / application is very minimal. By using our broker that keeps all security risks in the contained environment, it is possible to achieve a level of security far beyond the possibilities of today.</p><p>Furthermore, using the Jimber security broker it is possible to develop a website for only one browser (Chrome) but expose it through every browser version that supports canvas/webgl.</p><p><b>Jimber Features</b><br></p><p>Native feel: users will hardly notice a security component is used between them and untrusted resources.</p><p>Secure: full separation of the internet and confidential company data. -Traceable: full control and traceability of user activity.</p><p>Jimber security broker can be used as a reverse proxy, fully separating applications from the, sometimes evil, internet. For the users web-applications are still available like any other website, but no http-endpoints of the application are reachable from the public internet. Furthermore, malicious software on the client device will not be able to interact with our broker.</p><p><a href=\"https://jimber.org\" target=\"_blank\">www.jimber.org</a><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -1230,13 +1040,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/current_projects/jimber\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1340,68 +1148,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "13",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/het2-400x108.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2016</b><br></p><p>Human Energy Token is a concept initiative launched by Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.</p><p><b>Why Human Energy Token?</b><br></p><p>The world is more and more driven by greed, war and consumption which leads to more and more pollution and poverty.</p><p>The Human Energy Token.org project is driven by people with ambition to do good and use the latest innovations and technology to create a safe and stable currency.<br></p><p>The Human Energy Token goal<br></p><p>- inflation proof currency<br></p><p>- a safe payment system globally usable</p><p>- not used for criminal activities</p><p>- GREEN: no mining required</p><p>- no speculation: the value of the coin cannot be manipulated by buying or selling more</p><p>- super easy to use (also by non IT capable users)</p><p>Human Energy Token’s will be used for social responsible projects in emerging marketsFeel free to join our Human Energy Token movement as stakeholder, shareholder, project investor, or simply because you care.<br></p><p><br></p><p><b>Currency Design</b></p><p>The objective for Human Energy Token is to provide society with a safe and stable digital currency:</p><p>- Powered by blockchain distributed ledger technology: Rivine.Io</p><p>- Powered by mobile-only peer-to-peer payment technology: Rogerthat</p><p>- Greenest possible currency with energy consumption measurement: Racktivity</p><p>- Secure identification and privacy regulated by Blockchain solution: Itsyou.Online</p><p>- Speculation-free, backed by real assets and social responsible projects</p><p>- Community driven financial institution without central command</p><p><br></p><p>Human Engery Token is still in stealth mode and as such have no website yet.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -1409,13 +1155,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/current_projects/human_energy_token\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1300px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
