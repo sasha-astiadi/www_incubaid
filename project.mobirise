@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "rivine-io.html",
+    "currentPage": "datecentertech.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -295,7 +295,12 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         },
         {
           "_params": {
@@ -1493,10 +1498,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/amplidata\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/amplidata?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1035px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.mbr-section{\n    padding-top:0px;\n}\n\n\n.iframe-container {\n    width: 115%;\n    height: 1250px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}",
           "_customTemplate": true
         },
         {
@@ -1659,10 +1664,10 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-i",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dacentec\"></iframe>\n        </div>\n    </div>\n</section>\n</div>\n\n",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dacentec?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>\n\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1085px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n\n\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1085px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n    \n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n\n\n",
           "_customTemplate": true
         },
         {
@@ -1767,68 +1772,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "14",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-dct-250x65.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ThreeFold.tech",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-i",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
           "text": "<p><b>Founded in 2002</b><br></p><p>Founded by Kristof in 2002 to originally resolve automation problems around what we would call cloud computing today. At that time that term was not invented. DCT had a lot of technology pieces but after 2002 the market was very difficult, DCT decided to focus on its storage solution.<br></p><p><br>DCT was the first company in the world inventing a data deduplication storage product for backup purposes. DCT could backup thousands of servers much more cost effective and faster than any other technology solution at that point.<br><br>DataCenter Technologies (DCT) was Incubaid’s first storage software company, making storage systems in datacenters more efficient and scalable. This product is now part of all disk based storage products of Veritas Software (which was also Symantec for a while).</p><p><br></p><p><b>Exit: 2005<br><br></b>DCT was acquired by Veritas in 2005, before it became Symantec. Symantec is one of the largest software companies in the world. DCT was a privately held maker of data reduction and capacity optimization software for disk-based backup with offices in Belgium and Foster City, California.</p><p><b>Milestones</b></p><p>- DCT created backup/restore software for first Datacenters and remote offices<br>- DCT created the first CAS (Content Addressed Storage) based backup technology<br>- Using these technologies, customers required 10 times less storage for typical backup processes.</p><p><a href=\"https://www.symantec.com\">www.symantec.com</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -1836,13 +1779,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/datacentertech?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1250px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1953,10 +1894,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dedigate\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dedigate?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1400px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1400px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2068,10 +2009,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/hostbasket\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/hostbasket?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1170px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1890px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1170px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1890px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2183,10 +2124,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/q-layer\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/q-layer?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1232px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 2013px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1232px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 2013px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2298,10 +2239,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/virtualbox\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/virtualbox?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1160px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1160px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2445,7 +2386,12 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         },
         {
           "_params": {
@@ -2630,10 +2576,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/awingu\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/awingu?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2745,10 +2691,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/gig_tech\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/gig_tech?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2860,10 +2806,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/itsyou_online\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/itsyou_online?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -2975,10 +2921,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/open_vstorage\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/open_vstorage?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
@@ -3090,10 +3036,10 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/racktivity\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
+          "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/former_projects/racktivity?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: -272px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: -275px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: -32px;\n    border: none;\n}\n}\n\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n\n",
           "_customTemplate": true
         },
         {
@@ -3323,7 +3269,7 @@
           "_customHTML": "<div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://www.info.incubaid.com/#/webcontent/former_projects/rogerthat?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1000px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1720px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n.iframe-container {\n    width: 115%;\n    height: 1250px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) { */\n  @media (min-width: 768px) and (max-width: 1024px) {\n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;\n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n\n}\n\n/* @media (max-width: 991px){ */\n @media (min-width: 320px) and (max-width: 480px) {\n    .iframe-container {\n    width: 115%;\n    height: 1720px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;\n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n",
           "_customTemplate": true
         },
         {
