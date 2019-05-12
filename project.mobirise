@@ -20,9 +20,7 @@
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "publishType": "local",
-    "publishPath": "file:///D:/Github-repo/www_incubaid"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -1666,7 +1664,7 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-i",
-          "_customHTML": "<div id=\"Container\" style=\"padding-bottom:56.25%; position:relative; display:block; width: 100% \">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://info.incubaid.com/#/webcontent/exits/dacentec?sidebar=hide&amp;github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>\n",
+          "_customHTML": "<div id=\"Container\" style=\"padding-bottom:70%; position:relative; display:block; width: 100% \">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://info.incubaid.com/#/webcontent/exits/dacentec?sidebar=hide&amp;github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n",
