@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "rogerthat.html",
+    "currentPage": "dacentec.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     "versionFirst": "4.9.2",
     "siteFonts": [],
     "uniqCompNum": 30,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -1666,10 +1666,10 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-i",
-          "_customHTML": "<!-- <div class=\"container\">\n        <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"26\">\n    <div class=\"container\">\n        <div class=\"iframe-container\">\n            <iframe src=\"https://info.incubaid.com/#/webcontent/exits/dacentec?sidebar=hide&amp;github=hide\"></iframe>\n        </div>\n    </div>\n</section>\n</div> -->\n\n\n<div id=\"Container\" style=\"padding-bottom:56.25%; position:relative; display:block; width: 100% \">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://info.incubaid.com/#/webcontent/exits/dacentec?sidebar=hide&amp;github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>\n",
+          "_customHTML": "<div id=\"Container\" style=\"padding-bottom:56.25%; position:relative; display:block; width: 100% \">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://info.incubaid.com/#/webcontent/exits/dacentec?sidebar=hide&amp;github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n/* .iframe-container {\n    width: 115%;\n    height: 1085px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 127%;\n    margin-left: 0px;\n    border: none;\n}\n\n\n@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {\n  @media (min-width: 768px) and (max-width: 1024px) {  \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 120%;    \n    height: 145%;\n    margin-left: 0px;\n    border: none;\n}\n    \n}\n\n@media (max-width: 991px){\n @media (min-width: 320px) and (max-width: 480px) {   \n    .iframe-container {\n    width: 115%;\n    height: 1055px;\n    margin: auto;\n    overflow: hidden;\n}\n\n.iframe-container iframe {\n    width: 100%;    \n    height: 101%;\n    margin-left: 0px;\n    border: none;\n}\n}\n\n\n */",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\nP {\n  font-size: 18px;\n  font-family: 'Raleway', sans-serif;\n}\n\n",
           "_customTemplate": true
         },
         {
