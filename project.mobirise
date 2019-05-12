@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "company.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -76,7 +76,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "36px"
             }
-          }
+          },
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -202,8 +203,9 @@
           "_anchor": "menu-9",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n.navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n",
           "_customTemplate": true,
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            \n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"145\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"146\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"147\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"148\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"149\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"150\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"151\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#5cb85c"
@@ -292,13 +294,9 @@
           "_anchor": "menu-9",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n.navbar-toggler {\n  color: #5cb85c;\n}\n",
           "_customTemplate": true,
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          }
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            \n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"159\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"160\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"161\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"162\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"163\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"164\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"165\"></a></li></ul>\n        </div>\n    </div>\n</nav>"
         },
         {
           "_params": {
@@ -428,12 +426,12 @@
             "Theme"
           ],
           "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          },
-          "_anchor": "menu-9"
+          "_anchor": "menu-9",
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\"></div>\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"22\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"23\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"24\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"25\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"26\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"27\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"28\"></a></li></ul>\n        </div>\n    </div>\n</nav>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1303,13 +1301,9 @@
           "_anchor": "menu-e",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover {\n    color: #68b622;\n}",
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n.navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover {\n    color: #68b622;\n}",
           "_customTemplate": true,
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          }
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            \n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"173\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"174\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"175\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"176\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"177\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"178\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"179\"></a></li></ul>\n        </div>\n    </div>\n</nav>"
         },
         {
           "_params": {
@@ -2380,13 +2374,9 @@
           "_anchor": "menu-e",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n",
+          "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n.navbar-toggler {\n  color: #5cb85c;\n}\n",
           "_customTemplate": true,
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            }
-          }
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <!-- <div class=\"clearfix\"></div> -->\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            \n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"187\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"188\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"189\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"190\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"191\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"192\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"193\"></a></li></ul>\n        </div>\n    </div>\n</nav>"
         },
         {
           "_params": {
