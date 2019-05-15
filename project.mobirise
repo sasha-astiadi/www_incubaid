@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "current-projects.html",
+    "currentPage": "powering-threefoldtech.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     "versionFirst": "4.9.2",
     "siteFonts": [],
     "uniqCompNum": 30,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -363,26 +363,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "IT as Energy",
-          "meta": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-c",
-          "_styles": {
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "48px"
-            }
-          }
-        },
-        {
           "text": "<p>Incubaid is ThreeFold Tech’s in-house incubator. The company supports various technology startups that develop software in different technology domains, such as blockchain, mobile, storage and cloud. The ultimate vision is to make the Internet more efficient and green, and ultimately deliver IT as Energy to individuals, businesses and society.</p><p><b>IT equals Energy</b><br></p><p>Energy was the primary driver for the industrial revolution(s). We believe that IT Capacity will be the energy source that drives the next industrial revolution - hence IT = Energy.</p><p>Today the reliance on IT for our businesses and society is as important as electricity. Like electricity, we believe IT capacity should be local, always available and transparently priced for everyone. Also like any other energy source, it is important that our IT capacity should be produced in a green environmentally-friendly way.<br></p><p>We believe IT capacity should be generated and consumed on local grid networks - just like electricity.<br></p><p><br></p><p><b>IT as Energy</b></p><p>Incubaid and ThreeFold Tech produce raw capacity in the form of compute, storage and transaction building blocks that combine to run any IT workload. These so-called “cloud units” operate similarly to kilowatts of electricity - in the sense that they can be dynamically allocated to our customers as needed.</p><p>ThreeFold Tech’s IT as Energy concept allows transparent pricing and trading of IT capacity similar to electricity - enabling much more efficient utilization to keep up with exponential demand.<br></p><p>The team of Incubaid is here to support your technology-led initiatives and startups that are sharing the same vision and look to work with us and add value towards a green, friendly and democratized Internet.<br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -390,11 +370,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "_customHTML": "<!-- <section class=\"mbr-section mbr-section__container mbr-section__container--isolated mbr-after-navbar\" data-rv-view=\"43\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 lead mbr-editable-full\"><p>Incubaid is ThreeFold Tech’s in-house incubator. The company supports various technology startups that develop software in different technology domains, such as blockchain, mobile, storage and cloud. The ultimate vision is to make the Internet more efficient and green, and ultimately deliver IT as Energy to individuals, businesses and society.</p><p><strong>IT equals Energy</strong><br></p><p>Energy was the primary driver for the industrial revolution(s). We believe that IT Capacity will be the energy source that drives the next industrial revolution - hence IT = Energy.</p><p>Today the reliance on IT for our businesses and society is as important as electricity. Like electricity, we believe IT capacity should be local, always available and transparently priced for everyone. Also like any other energy source, it is important that our IT capacity should be produced in a green environmentally-friendly way.<br></p><p>We believe IT capacity should be generated and consumed on local grid networks - just like electricity.<br></p><p><br></p><p><strong>IT as Energy</strong></p><p>Incubaid and ThreeFold Tech produce raw capacity in the form of compute, storage and transaction building blocks that combine to run any IT workload. These so-called “cloud units” operate similarly to kilowatts of electricity - in the sense that they can be dynamically allocated to our customers as needed.</p><p>ThreeFold Tech’s IT as Energy concept allows transparent pricing and trading of IT capacity similar to electricity - enabling much more efficient utilization to keep up with exponential demand.<br></p><p>The team of Incubaid is here to support your technology-led initiatives and startups that are sharing the same vision and look to work with us and add value towards a green, friendly and democratized Internet.<br></p></div>\n        </div>\n    </div>\n</section> -->\n\n<div id=\"Container\" style=\"padding-bottom:50%; position:relative; display:block; width: 100%\">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://wiki.incubaid.com/#/webcontent/introduction/it_as_energy?sidebar=hide&amp;github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n  font-size: 20px;\n}\n\n@media screen and (max-width: 768px){\n    \n    #Container{\n        padding-bottom:150% !important;\n    }    \n}",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -503,26 +483,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "Powering ThreeFold Tech",
-          "meta": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-c",
-          "_styles": {
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "48px"
-            }
-          }
-        },
-        {
           "text": "<p>Our experience as technology enterpreneurs has led us to found Incubaid. Since 2000 we have been exiting a number of startups to superior technology giants. Companies such as Oracle, Verizon, Hitachi Data Systems, have established billion dollar revenue streams in datacenter, storage and cloud services, using technology, products and companies that were founded by Incubaid.</p><p>Throughout the years we gathered capital, financial and legal advisory, disruptive technology and a network of very experienced and international startup veterans that support a portfolio of early-stage startups and ThreeFold Tech our portfolio company. Incubaid is unique as it has been carefully growing the intelectual property while generating serious returns for its investors.<br></p><p>Besides ThreeFold Tech, the areas of incubation and innovation are centered around blockchain, new digital currencies, next generation mobile applications and the democratization of the Internet, making it greener, with respect for individual freedom and privacy, while leveling the playing field for emerging markets and new digital economies to realize its full potential using internet platforms provided by ThreeFold Tech and Incubaid.<br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -530,11 +490,11 @@
           ],
           "_name": "content1",
           "_anchor": "content1-b",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "_customHTML": "<!-- <section class=\"mbr-section mbr-section__container mbr-section__container--last mbr-after-navbar\" data-rv-view=\"49\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 lead mbr-editable-full\"><p>Our experience as technology enterpreneurs has led us to found Incubaid. Since 2000 we have been exiting a number of startups to superior technology giants. Companies such as Oracle, Verizon, Hitachi Data Systems, have established billion dollar revenue streams in datacenter, storage and cloud services, using technology, products and companies that were founded by Incubaid.</p><p>Throughout the years we gathered capital, financial and legal advisory, disruptive technology and a network of very experienced and international startup veterans that support a portfolio of early-stage startups and ThreeFold Tech our portfolio company. Incubaid is unique as it has been carefully growing the intelectual property while generating serious returns for its investors.<br></p><p>Besides ThreeFold Tech, the areas of incubation and innovation are centered around blockchain, new digital currencies, next generation mobile applications and the democratization of the Internet, making it greener, with respect for individual freedom and privacy, while leveling the playing field for emerging markets and new digital economies to realize its full potential using internet platforms provided by ThreeFold Tech and Incubaid.<br></p></div>\n        </div>\n    </div>\n</section> -->\n\n<div id=\"Container\" style=\"padding-bottom:50%; position:relative; display:block; width: 100%\">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://wiki.incubaid.com/#/webcontent/introduction/powering_threefold_tech?sidebar=hide&amp;github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n  font-size: 20px;\n}\n\n@media screen and (max-width: 768px){\n    \n    #Container{\n        padding-bottom:150% !important;\n    }    \n}",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -576,7 +536,12 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n.navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n\n@media screen and (max-width: 768px){\n\n\n    .nav-item{\n        margin-left: 0rem;\n        padding-right: 3rem;\n    }\n\n    .navbar-toggler{\n        float: right;\n    }\n\n    .pull-xs-right{\n        padding-top: 1rem;\n    }\n\n}",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         },
         {
           "_params": {
@@ -1601,7 +1566,12 @@
           "_JSplaceholders": [],
           "_customCSS": ".navbar-toggler {\n  color: #5cb85c;\n}\n.navbar-toggler {\n  color: #5cb85c;\n}\n\na:focus, a:hover{\n    color:#5cb85c;\n}\n\n\n\n@media screen and (max-width: 768px){\n \n    \n    .nav-item{\n        margin-left: 0rem;\n        padding-right: 3rem;\n    }    \n   \n    .navbar-toggler{\n        float: right;\n    }\n    \n    .pull-xs-right{\n        padding-top: 1rem;\n    }\n    \n    .btn{\n        padding: .375rem 2.6rem;\n        \n    }\n  \n}",
           "_customTemplate": true,
-          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\">\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            \n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"432\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"433\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"434\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"435\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"436\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"437\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"438\"></a></li></ul>\n        </div>\n    </div>\n        </div>\n</nav>"
+          "_customHTML": "<nav class=\"navbar navbar-light mbr-navbar navbar-fixed-top\" data-rv-view=\"28\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"container\">\n        <span class=\"navbar-logo\"><a href=\"https://incubaid.com\"><img src=\"@PROJECT_PATH@/assets/images/incubaid-logo-189x40.png\" alt=\"Mobirise\"></a></span>\n        <button class=\"navbar-toggler pull-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar2\">\n            <div class=\"hamburger-icon\"></div>\n        </button>\n\n        <div class=\"clearfix\">\n        <div class=\"collapse navbar-toggleable-sm\" id=\"exCollapsingNavbar2\">\n            \n            \n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"432\">Home</a></li>  <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"introduction.html\" code-editable-id=\"433\">Introduction</a></li>     <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"current-projects.html\" code-editable-id=\"434\">Current Projects<br></a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"exits.html\" code-editable-id=\"435\">Exits</a></li>    <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"former-projects.html\" code-editable-id=\"436\">Former Projects</a></li> <li class=\"nav-item\"><a class=\"btn btn-white-outline btn-white mbr-editable-menu-item\" href=\"company.html\" code-editable-id=\"437\">Company</a></li></ul>\n\n            <ul class=\"nav navbar-nav pull-xs-right\"><li class=\"nav-item\"><a class=\"nav-link mbr-editable-menu-item\" href=\"https://mobirise.com\" code-editable-id=\"438\"></a></li></ul>\n        </div>\n    </div>\n        </div>\n</nav>",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            }
+          }
         }
       ]
     },

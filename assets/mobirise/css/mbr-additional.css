@@ -94,13 +94,13 @@
 }
 
 
-
-#header3-c H3 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 48px;
-}
 #content1-b P {
   font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+  #content1-b #Container {
+    padding-bottom: 150% !important;
+  }
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;
@@ -138,13 +138,16 @@
 }
 
 
-
-#header3-c H3 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 48px;
-}
 #content1-b P {
   font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+  #content1-b #Container {
+    padding-bottom: 150% !important;
+  }
+}
+#menu-9 .navbar-toggler {
+  color: #5cb85c;
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;
@@ -684,6 +687,9 @@
 }
 #contacts1-a DIV {
   font-family: 'Raleway', sans-serif;
+}
+#menu-9 .navbar-toggler {
+  color: #5cb85c;
 }
 #menu-9 .navbar-toggler {
   color: #5cb85c;
