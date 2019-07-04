@@ -1,0 +1,84 @@
+@font-face {
+   font-family: 'Muli';
+   font-style: normal;
+   font-weight: 200;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: normal;
+   font-weight: 300;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: normal;
+   font-weight: 600;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: normal;
+   font-weight: 800;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: normal;
+   font-weight: 900;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 200;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/200italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 300;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/300italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 400;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 600;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 700;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/700italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 800;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/800italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Muli';
+   font-style: italic;
+   font-weight: 900;
+   src: url('file:///Users/gosam/Documents/GitHub/www_incubaid//fonts/Muli/900italic.ttf') format('truetype');
+}

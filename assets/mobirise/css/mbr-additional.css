@@ -1,5 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i);
 
 
 
@@ -21,35 +21,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -659,7 +659,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1833,29 +1833,6 @@ body {
   color: #232323;
   text-align: left;
 }
-.cid-rvhrR0fbWz {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-rvhrR0fbWz .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rvhrR0fbWz .section-text {
-  padding: 2rem 0;
-}
-.cid-rvhrR0fbWz .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rvhrR0fbWz .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-rv6GnJ52dw {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -2225,7 +2202,7 @@ body {
 }
 .cid-rvhdQD4G30 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rvhdQD4G30 .mbr-section-subtitle {
@@ -2234,57 +2211,30 @@ body {
 .cid-rvhdQD4G30 H2 {
   color: #68b622;
 }
-.cid-ruYDHgre1o {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/bruno-martins-k1-uo1mgszs-unsplash-1-2000x1333.jpg");
-}
-.cid-ruYDHgre1o H2 {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-ruYDATjOxF {
+.cid-rvhRTaVeUj {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-ruYDATjOxF .card-box {
-  padding: 0 2rem;
+.cid-rvhRTaVeUj h3 {
+  text-align: center;
 }
-.cid-ruYDATjOxF .mbr-section-btn {
-  padding-top: 1rem;
+.cid-rvhRTaVeUj .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
 }
-.cid-ruYDATjOxF .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-ruYDATjOxF h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-ruYDATjOxF p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-ruYDATjOxF .mbr-text {
+.cid-rvhRTaVeUj .mbr-content-text {
   color: #767676;
 }
-.cid-ruYDATjOxF .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
+.cid-rvhRTaVeUj .panel-item {
   background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
 }
-.cid-ruYDATjOxF .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-rvhRTaVeUj .card {
+  word-wrap: break-word;
 }
-.cid-ruYDATjOxF .card-title {
-  text-align: center;
+.cid-rvhRTaVeUj .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
 .cid-rvhiJWVTxj {
   padding-top: 30px;
@@ -2726,6 +2676,9 @@ body {
 }
 .cid-rvgiBwCWOe .mbr-text,
 .cid-rvgiBwCWOe .mbr-section-btn {
+  color: #232323;
+}
+.cid-rvgiBwCWOe H1 {
   color: #232323;
 }
 .cid-rvgO9roamR {
@@ -3333,18 +3286,18 @@ body {
 .cid-ruXE0XDi7k .dropdown-item:hover {
   color: #68b622 !important;
 }
-.cid-rv6JoV2mW6 {
+.cid-rvi5Dz9s1v {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rv6JoV2mW6 .mbr-section-subtitle {
-  color: #232323;
-  text-align: left;
-}
-.cid-rv6JoV2mW6 H2 {
+.cid-rvi5Dz9s1v H2 {
   text-align: left;
   color: #68b622;
+}
+.cid-rvi5Dz9s1v .mbr-section-subtitle {
+  color: #232323;
+  text-align: left;
 }
 .cid-rvhto80ViA .google-map {
   height: 25rem;
@@ -3981,9 +3934,61 @@ body {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-rvhW99lwgO {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/bruno-martins-k1-uo1mgszs-unsplash-1-2000x1333.jpg");
+}
+.cid-rvhW99lwgO H2 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rvhWinDwqr {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rvhWinDwqr .card-box {
+  padding: 0 2rem;
+}
+.cid-rvhWinDwqr .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rvhWinDwqr .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rvhWinDwqr h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rvhWinDwqr p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rvhWinDwqr .mbr-text {
+  color: #767676;
+}
+.cid-rvhWinDwqr .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rvhWinDwqr .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rvhWinDwqr .card-title {
+  text-align: center;
+}
 .cid-ruYYLc9V9v {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-ruYWpnv5cA .google-map {
