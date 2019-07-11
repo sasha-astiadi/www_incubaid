@@ -3241,135 +3241,17 @@ body {
   color: #232323;
   text-align: left;
 }
-.cid-rvRjYP3uWx .google-map {
-  height: 25rem;
-  position: relative;
+#custom-html-c3 {
+  /* Type valid CSS here */
 }
-.cid-rvRjYP3uWx .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rvRjYP3uWx .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
+#custom-html-c3 div {
+  padding: 80px 0;
+  color: #777;
   text-align: center;
-  top: 50%;
-  width: 100%;
 }
-.cid-rvRjYP3uWx .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rvRjYP3uWx .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rvRjZc9OeA .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rvRjZc9OeA .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rvRjZc9OeA .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rvRjZc9OeA .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rvRjZc9OeA .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rvRk0p1g9h .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rvRk0p1g9h .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rvRk0p1g9h .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rvRk0p1g9h .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rvRk0p1g9h .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rvRk8WIzrO .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rvRk8WIzrO .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rvRk8WIzrO .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rvRk8WIzrO .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rvRk8WIzrO .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rvTQLulxsr .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rvTQLulxsr .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rvTQLulxsr .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rvTQLulxsr .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rvTQLulxsr .google-map[data-state="loading"] [data-state-details] {
-  display: none;
+#custom-html-c3 p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-rvqKWT1xRW {
   padding-top: 60px;
