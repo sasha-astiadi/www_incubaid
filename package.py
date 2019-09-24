@@ -3,7 +3,7 @@ from Jumpscale import j
 class Package(j.baseclasses.threebot_package):
     """
     to start need to run 
-    kosmos -p "j.tools.threebot_packages.get('codescalers_production',giturl='https://github.com/Incubaid/www_incubaid',branch='master')"
+    kosmos -p "j.tools.threebot_packages.get('incubaid_master',giturl='https://github.com/Incubaid/www_incubaid',branch='master')"
     kosmos -p "j.servers.threebot.default.start(web=True, ssl=False)"
     """
     def _init(self, **kwargs):
