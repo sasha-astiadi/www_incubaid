@@ -3,3 +3,4 @@ project.mobirise-tmp
 debug.log
 project.mobirise
 publish-hashes.json
+package.py
