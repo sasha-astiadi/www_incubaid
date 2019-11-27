@@ -3,8 +3,9 @@ from Jumpscale import j
 class Package(j.baseclasses.threebot_package):
     """
     to start need to run 
-    kosmos -p "j.tools.threebot_packages.get('incubaid_master',giturl='https://github.com/Incubaid/www_incubaid',branch='master')"
-    kosmos -p "j.servers.threebot.default.start(web=True, ssl=False)"
+    kosmos -p 
+    JSX> cl = j.servers.threebot.local_start_zerobot_default() 
+    JSX> cl.actors.package_manager.package_add(git_url="https://github.com/Incubaid/www_incubaid/")
     """
     def _init(self, **kwargs):
         self.branch = kwargs["package"].branch or "master"
@@ -18,10 +19,7 @@ class Package(j.baseclasses.threebot_package):
         server = self.openresty
         server.install(reset=True)
         server.configure()
-        website = server.websites.get("incubaid")
-        website.ssl = False
-        website.port = 80
-        locations = website.locations.get("incubaid")
+        website = server.get_from_port(80)
         static_location = locations.locations_static.new()
         static_location.name = "static"
         static_location.path_url = "/"
