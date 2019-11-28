@@ -20,6 +20,7 @@ class Package(j.baseclasses.threebot_package):
         server.install(reset=True)
         server.configure()
         website = server.get_from_port(8083)
+        locations = website.locations.get("incubaid_locations")
         static_location = locations.locations_static.new()
         static_location.name = "static"
         static_location.path_url = "/"
