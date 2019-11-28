@@ -19,7 +19,7 @@ class Package(j.baseclasses.threebot_package):
         server = self.openresty
         server.install(reset=True)
         server.configure()
-        website = server.get_from_port(8080)
+        website = server.get_from_port(8083)
         static_location = locations.locations_static.new()
         static_location.name = "static"
         static_location.path_url = "/"
