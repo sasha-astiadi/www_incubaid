@@ -5,7 +5,7 @@ class Package(j.baseclasses.threebot_package):
     """
     JSX> cl = j.servers.threebot.local_start_zerobot(background=False)
     JSX> cl = j.clients.gedis.get("abc", port=8901, package_name="zerobot.packagemanager")
-    JSX> cl.actors.package_manager.package_add(git_url="https://github.com/threefold-love/www_incubaid_com/tree/3bot")
+    JSX> cl.actors.package_manager.package_add(git_url="https://github.com/Incubaid/www_incubaid/tree/3bot")
     """
     DOMAIN = "incubaid.com"
     def start(self):
