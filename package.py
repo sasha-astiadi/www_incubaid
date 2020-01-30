@@ -8,6 +8,7 @@ class Package(j.baseclasses.threebot_package):
     JSX> cl.actors.package_manager.package_add(git_url="https://github.com/Incubaid/www_incubaid/tree/3bot")
     """
     DOMAIN = "incubaid.com"
+    name = "www_incubaid"
     def start(self):
         server = self.openresty
         server.configure()
