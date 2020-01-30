@@ -7,7 +7,7 @@ class Package(j.baseclasses.threebot_package):
     JSX> cl = j.clients.gedis.get("abc", port=8901, package_name="zerobot.packagemanager")
     JSX> cl.actors.package_manager.package_add(git_url="https://github.com/threefold-love/www_incubaid_com/tree/3bot")
     """
-    DOMAIN = "www.incubaid.com"
+    DOMAIN = "incubaid.com"
     def start(self):
         server = self.openresty
         server.configure()
@@ -18,7 +18,7 @@ class Package(j.baseclasses.threebot_package):
 
         websites = [server.get_from_port(80), server.get_from_port(443), website_incubaid]
         for website in websites:
-            locations = website.locations.get(f"3bot_locations_{website.name}")
+            locations = website.locations.get(f"threebot_locations_{website.name}")
 
             website_location = locations.locations_static.new()
             website_location.name = "incubaid_website"
