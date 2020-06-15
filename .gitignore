@@ -3,3 +3,4 @@ project.mobirise-tmp
 debug.log
 package.py
 publish-hashes.json
+.DS_Store
