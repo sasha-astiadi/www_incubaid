@@ -1501,7 +1501,7 @@ section.lazy-placeholder:after {
 .cid-rvgiBwCWOe {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/nick-fewings-648615-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/incubaid-projects-11-979x1040.png");
 }
 .cid-rvgiBwCWOe .media-container-row {
   flex-direction: row-reverse;
@@ -1606,7 +1606,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rvmzJyEjTR H4 {
-  color: #15dabd;
+  color: #1b8e7d;
 }
 .cid-rvmC8ljqcr {
   padding-top: 30px;
@@ -8744,7 +8744,7 @@ section.lazy-placeholder:after {
 .cid-rvbOEgbAnf {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/tf-bg-2000x1125.jpg");
+  background-image: url("../../../assets/images/header-1-1920x1104.png");
 }
 .cid-rvbOEgbAnf .media-container-row {
   flex-direction: row-reverse;
@@ -8766,6 +8766,13 @@ section.lazy-placeholder:after {
   .cid-rvbOEgbAnf .mbr-text {
     text-align: center;
   }
+}
+.cid-rvbOEgbAnf .mbr-text,
+.cid-rvbOEgbAnf .mbr-section-btn {
+  color: #232323;
+}
+.cid-rvbOEgbAnf H1 {
+  color: #232323;
 }
 .cid-rvmyUfVjUx {
   padding-top: 30px;
@@ -12688,8 +12695,27 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-s1XMIhiIxH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1XMIhiIxH h1 {
+  color: #616161;
+}
+.cid-s1XMIhiIxH h2,
+.cid-s1XMIhiIxH h3,
+.cid-s1XMIhiIxH p {
+  color: #767676;
+}
+.cid-s1XMIhiIxH .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-s1XMIhiIxH H1 {
+  color: #232323;
+}
 .cid-s1HXWy1SVB {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
