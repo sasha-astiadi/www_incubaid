@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Incubaid",
-    "currentPage": "spaces.html",
+    "currentPage": "threefold-foundation.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -95,7 +95,7 @@
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-143592400-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-143592400-1');\r\n</script>\r\n",
     "uniqCompNum": 489,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
       "colorText": "#424a4d",
@@ -4267,7 +4267,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"enertia.html\" data-app-placeholder=\"Type Text\">Previous Project: Enertia</a> <a class=\"btn btn-black-outline\" href=\"talamanca-landbank.html\" data-app-placeholder=\"Type Text\">Next Project: Talamanca Land bank</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"enertia.html\" data-app-placeholder=\"Type Text\">Previous Project: Enertia</a> <a class=\"btn btn-black-outline\" href=\"talamancalandbank.html\" data-app-placeholder=\"Type Text\">Next Project: Talamanca Land bank</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-6v",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -5705,6 +5705,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -6458,6 +6460,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -7211,6 +7215,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -7964,6 +7970,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -8717,6 +8725,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -9614,7 +9624,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"talamanca-landbank.html\" data-app-placeholder=\"Type Text\">Previous Project: Talamanca Landbank</a> <a class=\"btn btn-black-outline\" href=\"wave-two.html\" data-app-placeholder=\"Type Text\">Projects Overview</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"talamancalandbank.html\" data-app-placeholder=\"Type Text\">Previous Project: Talamanca Landbank</a> <a class=\"btn btn-black-outline\" href=\"wave-two.html\" data-app-placeholder=\"Type Text\">Projects Overview</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-6x",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -11215,6 +11225,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -11968,6 +11980,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -12721,6 +12735,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -13474,6 +13490,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
@@ -16456,6 +16474,8 @@
           "_cid": "rv4ckKlugW",
           "_anchor": "formbuilder-16",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
